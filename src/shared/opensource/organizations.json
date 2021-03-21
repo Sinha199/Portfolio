@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "login": "OpenGenus",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18506046?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "IBM-Blockchain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17178768?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "SHY-Corp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70285270?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

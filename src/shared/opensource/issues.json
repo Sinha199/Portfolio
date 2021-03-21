@@ -1,0 +1,205 @@
+{
+  "closed": 5,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU3MjI4NzcxNTY=",
+      "closed": true,
+      "title": "Shortest Subarray with Sum at Least K",
+      "createdAt": "2020-10-16T04:11:31Z",
+      "url": "https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp/issues/430",
+      "number": 430,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/48489081?u=22f7f08ae81ab4f4e4f7a55eb571af6985ba8e09&v=4",
+            "name": "Anshu Sinha",
+            "url": "https://github.com/Sinha199"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Data-Structures-and-Algorithms-in-cpp",
+        "url": "https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp",
+        "owner": {
+          "login": "amritansh22",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29978031?u=94d4c7fb9bae7f4fc71ccc228878d1cd5986c1ff&v=4",
+          "url": "https://github.com/amritansh22"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjI1MTU4MDE=",
+      "closed": false,
+      "title": "Adding a ml project on brain tumor detection.",
+      "createdAt": "2020-10-15T17:09:28Z",
+      "url": "https://github.com/its-harshil/Hacktoberfest_2020/issues/178",
+      "number": 178,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Hacktoberfest_2020",
+        "url": "https://github.com/its-harshil/Hacktoberfest_2020",
+        "owner": {
+          "login": "its-harshil",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43263619?u=49a2c9f46e3add606701ec61c94e1434f907fe92&v=4",
+          "url": "https://github.com/its-harshil"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjI1MTMyNTE=",
+      "closed": false,
+      "title": "Add code for redundant connection in C++",
+      "createdAt": "2020-10-15T17:05:32Z",
+      "url": "https://github.com/OpenGenus/cosmos/issues/6007",
+      "number": 6007,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cosmos",
+        "url": "https://github.com/OpenGenus/cosmos",
+        "owner": {
+          "login": "OpenGenus",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18506046?v=4",
+          "url": "https://github.com/OpenGenus"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjIyOTI4Mjg=",
+      "closed": false,
+      "title": "Adding a new code for a leetcode problem",
+      "createdAt": "2020-10-15T12:32:11Z",
+      "url": "https://github.com/sastava007/Tech-Interview-Preparation/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Tech-Interview-Preparation",
+        "url": "https://github.com/sastava007/Tech-Interview-Preparation",
+        "owner": {
+          "login": "sastava007",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43990819?u=d6157fa787c53d456534fdeb9e5f53bcab17b35a&v=4",
+          "url": "https://github.com/sastava007"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjE2NzM3NjI=",
+      "closed": true,
+      "title": "151 | Reverse Words in a String | C++",
+      "createdAt": "2020-10-14T18:09:59Z",
+      "url": "https://github.com/SHY-Corp/LeetCode-Solutions/issues/383",
+      "number": 383,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/48489081?u=22f7f08ae81ab4f4e4f7a55eb571af6985ba8e09&v=4",
+            "name": "Anshu Sinha",
+            "url": "https://github.com/Sinha199"
+          }
+        ]
+      },
+      "repository": {
+        "name": "LeetCode-Solutions",
+        "url": "https://github.com/SHY-Corp/LeetCode-Solutions",
+        "owner": {
+          "login": "SHY-Corp",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/70285270?v=4",
+          "url": "https://github.com/SHY-Corp"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjEzODEyNDk=",
+      "closed": true,
+      "title": "Adding code for largest divisible subset",
+      "createdAt": "2020-10-14T11:35:25Z",
+      "url": "https://github.com/ahampriyanshu/algo_ds_101/issues/1425",
+      "number": 1425,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/27916115?u=22fff6a31f5cb24e7b450ab3a12795e705907ec7&v=4",
+            "name": "Lakshitha Wisumperuma",
+            "url": "https://github.com/lashewi"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/41450089?v=4",
+            "name": "Sergey Rumiantsev",
+            "url": "https://github.com/greyGroot"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/48489081?u=22f7f08ae81ab4f4e4f7a55eb571af6985ba8e09&v=4",
+            "name": "Anshu Sinha",
+            "url": "https://github.com/Sinha199"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/54592810?v=4",
+            "name": "pradyumn sharma",
+            "url": "https://github.com/P-cpu"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/72325752?v=4",
+            "name": null,
+            "url": "https://github.com/Himanshu-Nagle"
+          }
+        ]
+      },
+      "repository": {
+        "name": "algo_ds_101",
+        "url": "https://github.com/ahampriyanshu/algo_ds_101",
+        "owner": {
+          "login": "ahampriyanshu",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54521023?u=4f9a4a934d5cf7d1ef6ce1429945c355e2cc7118&v=4",
+          "url": "https://github.com/ahampriyanshu"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzgwODQyNzk=",
+      "closed": true,
+      "title": "Failed to activate extension:\"Couldn't build native dependencies\"",
+      "createdAt": "2020-03-09T17:51:17Z",
+      "url": "https://github.com/IBM-Blockchain/blockchain-vscode-extension/issues/2038",
+      "number": 2038,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "blockchain-vscode-extension",
+        "url": "https://github.com/IBM-Blockchain/blockchain-vscode-extension",
+        "owner": {
+          "login": "IBM-Blockchain",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/17178768?v=4",
+          "url": "https://github.com/IBM-Blockchain"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzMzOTc3MjE=",
+      "closed": true,
+      "title": "Coudn't rebuild native modules",
+      "createdAt": "2020-02-29T19:38:54Z",
+      "url": "https://github.com/IBM-Blockchain/blockchain-vscode-extension/issues/2012",
+      "number": 2012,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "blockchain-vscode-extension",
+        "url": "https://github.com/IBM-Blockchain/blockchain-vscode-extension",
+        "owner": {
+          "login": "IBM-Blockchain",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/17178768?v=4",
+          "url": "https://github.com/IBM-Blockchain"
+        }
+      }
+    }
+  ],
+  "open": 3,
+  "totalCount": 8
+}
